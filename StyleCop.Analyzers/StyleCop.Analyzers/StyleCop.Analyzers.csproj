@@ -51,6 +51,7 @@
     <Compile Include="AnalyzerCategory.cs" />
     <Compile Include="AnalyzerConstants.cs" />
     <Compile Include="AnalyzerExtensions.cs" />
+    <Compile Include="AnalyzerProvider.cs" />
     <Compile Include="DocumentationRules\DocumentationResources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
